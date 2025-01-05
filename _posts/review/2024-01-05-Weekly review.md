@@ -28,6 +28,6 @@ review storage part, finish homework 2
 
 ## Next week
 
-use 1 week to learn R-B tree and implementation, refer textbook.
+use 1 week to learn Tree part and implementation, refer textbook. and the Kd-Tree hw of Algorithm will be after R-B Tree.
 keep database and algorithm on due.
 start JPlayer and web application.
