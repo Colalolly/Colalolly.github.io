@@ -3,7 +3,6 @@ layout: post
 title: Weekly review
 date: 2024-12-31
 tags: [tech, review]
-permalink: /:categories/:year/:month/:day/:title/
 published: false
 ---
 

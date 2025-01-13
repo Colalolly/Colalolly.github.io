@@ -3,7 +3,6 @@ layout: post
 title: WorkshopOfReport
 tags: [tech, PowerBI]
 published: false
-permalink: /:categories/:year/:month/:day/:title/
 ---
 
 # Workshop of Report

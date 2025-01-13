@@ -3,7 +3,6 @@ layout: post
 title: "On pursuit of happiness"
 date: 2024-12-23
 tags: [writings, language]
-permalink: /:categories/:year/:month/:day/:title/
 published: false
 ---
 

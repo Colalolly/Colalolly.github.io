@@ -3,7 +3,6 @@ layout: post
 title: java_project_deploy_memo
 tags: [tech, java]
 published: false
-permalink: /:categories/:year/:month/:day/:title/
 ---
 
 Java Project deploy Memo

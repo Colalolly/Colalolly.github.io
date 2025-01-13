@@ -3,7 +3,6 @@ layout: post
 title: Weekly review '25 W1
 date: 2025-01-05
 tags: [tech, review]
-permalink: /:categories/:year/:month/:day/:title/
 published: false
 ---
 

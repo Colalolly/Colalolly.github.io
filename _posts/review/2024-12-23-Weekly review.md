@@ -3,7 +3,6 @@ layout: post
 title: Weekly review
 tags: [tech, review]
 published: false
-permalink: /:categories/:year/:month/:day/:title/
 ---
 
 # Weekly review
