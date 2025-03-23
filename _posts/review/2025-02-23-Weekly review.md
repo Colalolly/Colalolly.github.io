@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Weekly Review '25 W7
-date: 2025-02-17
+title: Weekly Review '25 W8
+date: 2025-02-27
 tags: [review, tech]
 published: false
 ---
